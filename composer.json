@@ -3,8 +3,9 @@
     "description": "Generate static sitemap to server statically",
     "version": "v0.1",
     "require": {
-        "crodas/cli": "*",
-        "crodas/simple-view-engine": "*"
+        "crodas/simple-view-engine": "^0.1",
+        "crodas/file-util": ">=0.1.14",
+        "crodas/cli": "^0.1",
     },
     "require-dev": {
         "crodas/simple-view-engine": "*"
