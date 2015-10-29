@@ -1,8 +1,10 @@
 {
     "name": "pristavu/sitemap-generator",
     "description": "Generate static sitemap to server statically",
+    "version": "v0.1",
     "require": {
-        "crodas/cli": "*"
+        "crodas/cli": "*",
+        "crodas/simple-view-engine": "*"
     },
     "require-dev": {
         "crodas/simple-view-engine": "*"
