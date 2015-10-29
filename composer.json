@@ -1,5 +1,5 @@
 {
-    "name": "crodas/sitemap-generator",
+    "name": "pristavu/sitemap-generator",
     "description": "Generate static sitemap to server statically",
     "require": {
         "crodas/cli": "*"
